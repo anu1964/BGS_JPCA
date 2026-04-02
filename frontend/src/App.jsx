@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import axios from "axios";
 
-const API = "http://127.0.0.1:8001";
+const API = "/api";
 
 /* ── Scanline / grid background ─────────────────────────────── */
 const globalCSS = `

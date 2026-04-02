@@ -1,0 +1,12 @@
+{
+  "experimentalServices": {
+    "frontend": {
+      "entrypoint": "frontend",
+      "accessPrefix": "/"
+    },
+    "backend": {
+      "entrypoint": "_/backend",
+      "accessPrefix": "/api"
+    }
+  }
+}
